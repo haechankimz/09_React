@@ -43,12 +43,12 @@ function App() {
       <Props3 name='고길동'/>
       <Props3 name='김영희'/> */}
 
-      {/* <State1/>
+      {/* <State1/> */}
 
       <hr/>
 
-      <State2 init="50" step="5"/> */}
-      <State3/>
+      <State2 init="50" step="5"/>
+      {/* <State3/> */}
 
       <hr/>
 {/* 
